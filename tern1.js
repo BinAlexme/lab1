@@ -1,4 +1,3 @@
-Это Tern1
 let a = Math.floor(Math.random() * 100);
 console.log("Исходное число:");
 console.log(a);
